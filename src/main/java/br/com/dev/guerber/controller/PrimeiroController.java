@@ -1,4 +1,4 @@
-package br.com.dev.guerber.primeiroprojetospringboot.controller;
+package br.com.dev.guerber.controller;
 
 import java.util.Map;
 
